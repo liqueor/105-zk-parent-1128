@@ -5,3 +5,14 @@
 /105-zk-parent-1128-service/target/
 /105-zk-parent-1128-shiro/target/
 /105-zk-parent-1128-w/target/
+
+# Idea
+.idea
+*.iws
+*.iml
+*/*.iml
+*.ipr
+
+.settings
+.classpath
+.project
