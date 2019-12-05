@@ -1,0 +1,7 @@
+# Project exclude paths
+/105-zk-parent-1128-common/target/
+/105-zk-parent-1128-mapper/target/
+/105-zk-parent-1128-model/target/
+/105-zk-parent-1128-service/target/
+/105-zk-parent-1128-shiro/target/
+/105-zk-parent-1128-w/target/
